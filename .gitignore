@@ -1,0 +1,52 @@
+# Build files
+build/
+bin/
+obj/
+hello-world
+main.o
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.ncb
+*.log
+*.tmp
+*.ipch
+*.aps
+*.pch
+
+# Visual Studio 2015+ cache/options
+.vscode/
+*.vscode
+
+# Visual Studio 2017+ cache/options
+.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Editor backup files
+*.backup
+
+# CMake build files
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
